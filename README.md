@@ -1,2 +1,2 @@
-# samdorval.github.io
+# samdorval
 My personal website
